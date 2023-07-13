@@ -101,7 +101,9 @@ button{
         font-weight: 400;
     }
     
-
+    #endDate label{
+        font-size: 20px;
+    }
  #col label{
     display: flex;
     justify-content: center;
