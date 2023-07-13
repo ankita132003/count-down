@@ -100,9 +100,7 @@ button{
         border-radius: 5px;
         font-weight: 400;
     }
-    #endDate label{
-        font-size: 15px;
-    }
+    
 
  #col label{
     display: flex;
@@ -110,4 +108,9 @@ button{
     color: aliceblue;
 }
 
+}
+@media(max-width: 350px){
+    #endDate label{
+        font-size: 17px;
+    }
 }
